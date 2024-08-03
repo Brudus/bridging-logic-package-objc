@@ -1,0 +1,15 @@
+{
+  "originHash" : "5d724e397b1d101ef0e69ff46123e970e829cdb21399d9cf545deb8079c1463e",
+  "pins" : [
+    {
+      "identity" : "business-logic-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Brudus/business-logic-package",
+      "state" : {
+        "revision" : "f01e391c08060e94d38ac023249bf922d2947b31",
+        "version" : "0.0.4"
+      }
+    }
+  ],
+  "version" : 3
+}
